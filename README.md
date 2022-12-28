@@ -1,4 +1,4 @@
-# Composer Json:
+# Composer Json Reader
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/imanghafoori/composer-json.svg?style=flat-square)](https://packagist.org/packages/imanghafoori/composer-json)
 [![Tests](https://img.shields.io/github/actions/workflow/status/imanghafoori/composer-json/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/imanghafoori/composer-json/actions/workflows/run-tests.yml)
